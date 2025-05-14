@@ -1,1 +1,1 @@
-![Net](C:\Users\xuyc\Desktop\Net.png)
+![Net](Net.png)
